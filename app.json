@@ -1,0 +1,12 @@
+{
+  "name": "react-native-webview",
+  "displayName": "react-native-webview",
+  "expo": {
+    "name": "react-native-webview",
+    "slug": "react-native-webview",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
